@@ -20,14 +20,14 @@
 
 <li>🌱 Focussing on learning Node js backend and looking forword to contribute in projects</li>
 
-<li>⭐ All of my projects are available at  <a href="mohit-kumar-indoriya-portfolio.netlify.app"></a></li>
+<li>⭐ All of my projects are available at  <a href="mohit-kumar-indoriya-portfolio.netlify.app">Portfolio</a></li>
 
 <li>💬 Ask me about MongoDB , React, Java Script</li>
 
   <li>✍️ Reach me at <b>mkibap@gmail.com</b></li>
 
   <li>📄 Know more about me <a href="https://drive.google.com/file/d/1kzXkbmMvQw-9KKcphrTq-Im3YwUx-J9h/view?usp=sharing">Resume</a> </li>
-  <li> linkedIn <a href="https://www.linkedin.com/in/mohit-indoriya-804b20233/"></a>
+  <li> linkedIn <a href="https://www.linkedin.com/in/mohit-indoriya-804b20233/">Linkedin</a>
   
   </ul>
  </p>
