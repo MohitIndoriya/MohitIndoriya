@@ -20,7 +20,7 @@
 
 <li>🌱 Focussing on learning Node js backend and looking forword to contribute in projects</li>
 
-<li>⭐ All of my projects are available at  <a href="http://mohit-kumar-indoriya-portfolio.netlify.app" target="_blank" rel="noopner noreferrer">Portfolio</a></li>
+<li>⭐ All of my projects are available at  <a href="http://mohit-kumar-indoriya-portfolio.netlify.app" target="_blank" >Portfolio</a></li>
 
 <li>💬 Ask me about MongoDB , React, Java Script</li>
 
